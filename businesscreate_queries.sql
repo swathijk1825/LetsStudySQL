@@ -84,6 +84,9 @@ FROM orders;
 
 -- order by
 
+
+
+
 SELECT * 
 FROM orders order by order_id desc;
 
